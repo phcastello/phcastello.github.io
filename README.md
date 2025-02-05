@@ -5,7 +5,7 @@
   <a href="https://phcastello.github.io/CursoJS">Curso de JavaScript</a>
 </p>
 <p>
-  <a href="https://phcastello.github.io/CursoBootstrap">Curso de Bootstrap
+  <a href="https://phcastello.github.io/CursoBootstrap">Curso de Bootstrap</a>
 </p>
 <p>
   <a href="https://phcastello.github.io/Caca_ao_Tesouro">Trabalho Final Algoritmos 1, 1 período</a>
